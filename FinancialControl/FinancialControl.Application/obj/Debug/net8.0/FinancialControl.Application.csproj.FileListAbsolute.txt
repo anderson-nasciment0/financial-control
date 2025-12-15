@@ -1,0 +1,15 @@
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\bin\Debug\net8.0\FinancialControl.Application.deps.json
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\bin\Debug\net8.0\FinancialControl.Application.dll
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\bin\Debug\net8.0\FinancialControl.Application.pdb
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\bin\Debug\net8.0\FinancialControl.Domain.dll
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\bin\Debug\net8.0\FinancialControl.Domain.pdb
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\FinancialControl.Application.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\FinancialControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\FinancialControl.Application.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\FinancialControl.Application.AssemblyInfo.cs
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\FinancialControl.Application.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\Financia.4EC43240.Up2Date
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\FinancialControl.Application.dll
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\refint\FinancialControl.Application.dll
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\FinancialControl.Application.pdb
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Application\obj\Debug\net8.0\ref\FinancialControl.Application.dll

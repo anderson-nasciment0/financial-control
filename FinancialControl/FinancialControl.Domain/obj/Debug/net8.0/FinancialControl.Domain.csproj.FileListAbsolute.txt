@@ -1,0 +1,11 @@
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\bin\Debug\net8.0\FinancialControl.Domain.deps.json
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\bin\Debug\net8.0\FinancialControl.Domain.dll
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\bin\Debug\net8.0\FinancialControl.Domain.pdb
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\FinancialControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\FinancialControl.Domain.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\FinancialControl.Domain.AssemblyInfo.cs
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\FinancialControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\FinancialControl.Domain.dll
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\refint\FinancialControl.Domain.dll
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\FinancialControl.Domain.pdb
+C:\Users\ander\source\repos\FinancialControl\FinancialControl.Domain\obj\Debug\net8.0\ref\FinancialControl.Domain.dll

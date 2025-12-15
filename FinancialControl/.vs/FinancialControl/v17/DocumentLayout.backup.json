@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ander\\source\\repos\\FinancialControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB339252-0E32-4C3B-A185-E211A7F6DCB4}|FinancialControl.Application\\FinancialControl.Application.csproj|c:\\users\\ander\\source\\repos\\financialcontrol\\financialcontrol.application\\services\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB339252-0E32-4C3B-A185-E211A7F6DCB4}|FinancialControl.Application\\FinancialControl.Application.csproj|solutionrelative:financialcontrol.application\\services\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FDE9A2-3BD6-4724-8A64-B14FEDD3487A}|FinancialControl.CrossCutting\\FinancialControl.CrossCutting.csproj|c:\\users\\ander\\source\\repos\\financialcontrol\\financialcontrol.crosscutting\\ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FDE9A2-3BD6-4724-8A64-B14FEDD3487A}|FinancialControl.CrossCutting\\FinancialControl.CrossCutting.csproj|solutionrelative:financialcontrol.crosscutting\\ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB339252-0E32-4C3B-A185-E211A7F6DCB4}|FinancialControl.Application\\FinancialControl.Application.csproj|c:\\users\\ander\\source\\repos\\financialcontrol\\financialcontrol.application\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB339252-0E32-4C3B-A185-E211A7F6DCB4}|FinancialControl.Application\\FinancialControl.Application.csproj|solutionrelative:financialcontrol.application\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C92B08-FE8C-43D0-BEE6-9E6D55A06463}|FinancialControl.Infrastructure\\FinancialControl.Infrastructure.csproj|c:\\users\\ander\\source\\repos\\financialcontrol\\financialcontrol.infrastructure\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C92B08-FE8C-43D0-BEE6-9E6D55A06463}|FinancialControl.Infrastructure\\FinancialControl.Infrastructure.csproj|solutionrelative:financialcontrol.infrastructure\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C92B08-FE8C-43D0-BEE6-9E6D55A06463}|FinancialControl.Infrastructure\\FinancialControl.Infrastructure.csproj|c:\\users\\ander\\source\\repos\\financialcontrol\\financialcontrol.infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C92B08-FE8C-43D0-BEE6-9E6D55A06463}|FinancialControl.Infrastructure\\FinancialControl.Infrastructure.csproj|solutionrelative:financialcontrol.infrastructure\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C92B08-FE8C-43D0-BEE6-9E6D55A06463}|FinancialControl.Infrastructure\\FinancialControl.Infrastructure.csproj|c:\\users\\ander\\source\\repos\\financialcontrol\\financialcontrol.infrastructure\\repositories\\transacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C92B08-FE8C-43D0-BEE6-9E6D55A06463}|FinancialControl.Infrastructure\\FinancialControl.Infrastructure.csproj|solutionrelative:financialcontrol.infrastructure\\repositories\\transacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Application\\Services\\TransacaoService.cs",
+              "RelativeDocumentMoniker": "FinancialControl.Application\\Services\\TransacaoService.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Application\\Services\\TransacaoService.cs",
+              "RelativeToolTip": "FinancialControl.Application\\Services\\TransacaoService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv24AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:37:54.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Infrastructure\\Repositories\\TransacaoRepository.cs",
+              "RelativeDocumentMoniker": "FinancialControl.Infrastructure\\Repositories\\TransacaoRepository.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Infrastructure\\Repositories\\TransacaoRepository.cs",
+              "RelativeToolTip": "FinancialControl.Infrastructure\\Repositories\\TransacaoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:20:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "RelativeDocumentMoniker": "FinancialControl.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "RelativeToolTip": "FinancialControl.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:20:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Infrastructure\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "FinancialControl.Infrastructure\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Infrastructure\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "FinancialControl.Infrastructure\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:19:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjectionAPI.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "RelativeDocumentMoniker": "FinancialControl.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "RelativeToolTip": "FinancialControl.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:16:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Application\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "FinancialControl.Application\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\FinancialControl\\FinancialControl.Application\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "FinancialControl.Application\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:07:20.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
